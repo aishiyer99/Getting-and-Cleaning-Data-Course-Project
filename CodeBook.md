@@ -10,7 +10,7 @@ The dataset was downloaded and extracted under the folder `UCI HAR Dataset`
 `y_test` <- `test/y_test.txt`: 2947 rows, 1 columns
 `subject_train` <- `test/subject_train.txt`: 7352 rows, 1 column
 `x_train` <- `test/X_train.txt`: 7352 rows, 561 columns
-`y_train` <- `test/y_train.txt`: 7352 rows, 1 columns
+`y_train` <- `test/y_train.txt`: 7352 rows, 1 column
 
 ## Identifiers
 * `subject` - The ID of the test subject
