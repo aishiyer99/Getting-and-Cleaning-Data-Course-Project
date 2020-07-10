@@ -1,6 +1,16 @@
-#CODE BOOK
-
 This codebook summarizes the data fields in the final text file (FinalData.txt)
+
+The dataset was downloaded and extracted under the folder `UCI HAR Dataset`
+
+## Assign variables to the data 
+`features` <- `features.txt`: 561 rows, 2 columns
+`activities` <- `activity_labels.txt`: 6 rows, 2 columns
+`subject_test` <- `test/subject_test.txt`: 2947 rows, 1 column
+`x_test` <- `test/X_test.txt`: 2947 rows, 561 columns
+`y_test` <- `test/y_test.txt`: 2947 rows, 1 columns
+`subject_train` <- `test/subject_train.txt`: 7352 rows, 1 column
+`x_train` <- `test/X_train.txt`: 7352 rows, 561 columns
+`y_train` <- `test/y_train.txt`: 7352 rows, 1 columns
 
 ## Identifiers
 * `subject` - The ID of the test subject
